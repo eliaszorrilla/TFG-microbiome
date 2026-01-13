@@ -52,8 +52,8 @@ Future stages of the project may include:
 ```
 TFG/
 └── data/
-    ├── raw/ # Raw data
-    └── processed/ # Preprocessed data
+│   ├── raw/ # Raw data
+│   └── processed/ # Preprocessed data
 ├── notebooks/ # Jupyter notebooks with analyses
 ├── results/ # Figures, tables, and outputs
 ├── scripts/ # Python scripts
