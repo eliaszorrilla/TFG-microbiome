@@ -1,3 +1,7 @@
+
+![image](<img width="1421" height="725" alt="image" src="https://github.com/user-attachments/assets/24a7db9c-a069-43cb-81be-44ab67f6bb67" />
+)
+
 # Analysis of Infant Gut Microbiota and Its Relationship with Behavioral and Brain Variables
 
 ## 📌 General description
