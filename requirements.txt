@@ -1,0 +1,13 @@
+
+biopython @ file:///D:/bld/biopython_1761734574645/work
+lxml==5.3.0
+matplotlib==3.10.0
+matplotlib-inline @ file:///C:/ci_311/matplotlib-inline_1676425798036/work
+numpy @ file:///C:/b/abs_958d_utj4g/croot/numpy_and_numpy_base_1750883811830/work/dist/numpy-2.3.1-cp311-cp311-win_amd64.whl#sha256=56ae5665d89fd365ace8cd6420c9d40359a033107e421eb911f864f844c1a695
+openpyxl @ file:///C:/b/abs_6cdczthntz/croot/openpyxl_1736371239628/work
+pandas @ file:///C:/b/abs_d5idbck212/croot/pandas_1752872294545/work/dist/pandas-2.3.1-cp311-cp311-win_amd64.whl#sha256=f3e2b1247194891096df34eb0b8bf5177275ae2cacf8da77ff70876ef3701a36
+scikit-learn @ file:///C:/b/abs_45qemhn4lg/croot/scikit-learn_1753427401078/work
+scipy @ file:///C:/b/abs_b9r7ium9ba/croot/scipy_1753384423349/work/dist/scipy-1.16.0-cp311-cp311-win_amd64.whl#sha256=459247d92d6cb0e61ab6ebd1ea2942ae88fffb7d1c024f3b1e8fd9dd9e2ac191
+seaborn @ file:///C:/b/abs_0bv5x0ucxb/croot/seaborn_1749110315600/work
+SQLAlchemy @ file:///C:/b/abs_01jvxay_0k/croot/sqlalchemy_1752524450450/work
+xlrd @ file:///croot/xlrd_1685030938141/work
