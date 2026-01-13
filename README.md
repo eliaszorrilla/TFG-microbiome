@@ -49,17 +49,18 @@ Future stages of the project may include:
 ---
 
 ## 📂 Repository structure
-
-├── data/
-│ ├── raw/ # Raw data
-│ └── processed/ # Preprocessed data
+```
+TFG/
+└── data/
+    ├── raw/ # Raw data
+    └── processed/ # Preprocessed data
 ├── notebooks/ # Jupyter notebooks with analyses
 ├── results/ # Figures, tables, and outputs
 ├── scripts/ # Python scripts
 ├── README.md # Project description
 ├── .gitignore
 └── requirements.txt # Project dependencies
-
+```
 ---
 
 ## ⚙️ Analysis methodology
