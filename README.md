@@ -14,7 +14,7 @@ The complete TFG will integrate **gut microbiota**, **behavioral**, and **brain-
 
 ## 🎯 Project objectives
 
-- To identify *Bifidobacterium* strains using publicly available genomic data.
+- To identify *Bifidobacterium* species using publicly available genomic data.
 - To explore genomic differences within the *Bifidobacterium* genus related to histidine metabolism based on the **presence or absence of the hutH gene**.
 - To develop a Python-based computational workflow for querying and analyzing NCBI genomic data.
 - To lay the groundwork for future integration with microbiota, behavioral, and brain-related datasets.
