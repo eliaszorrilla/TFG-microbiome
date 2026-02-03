@@ -1,0 +1,904 @@
+tax_id,HutH,name_txt,rank
+2834432,False,Bifidobacterium pongonis,species
+2834433,False,Bifidobacterium saguinibicoloris,species
+2834434,False,Bifidobacterium simiiventris,species
+2834435,False,Bifidobacterium miconis,species
+2834436,False,Bifidobacterium pluvialisilvae,species
+2834437,False,Bifidobacterium miconisargentati,species
+1798154,False,Bifidobacterium sp. LMM_I9,species
+1798155,False,Bifidobacterium aerophilum,species
+1798157,False,Bifidobacterium avesanii,species
+1798158,False,Bifidobacterium ramosum,species
+561180,False,Bifidobacterium gallicum DSM 20093 = LMG 11596,strain
+630129,False,Bifidobacterium catenulatum subsp. kashiwanohense,subspecies
+1507742,False,Bifidobacterium sp. CCFM8399,species
+1507743,False,Bifidobacterium sp. CCFM8400,species
+1316911,False,Bifidobacterium animalis subsp. lactis KLDS2.0603,strain
+2025113,False,Bifidobacterium sp. wkB344,species
+2025114,False,Bifidobacterium sp. wkB338,species
+401473,False,Bifidobacterium dentium Bd1,strain
+1075337,False,Bifidobacterium sp. SLPYG-1,species
+2490545,True,Bifidobacterium jacchi,species
+1161409,False,Bifidobacterium sp. MSTE12,species
+442563,False,Bifidobacterium animalis subsp. lactis AD011,strain
+547043,False,Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505,strain
+553191,False,Bifidobacterium dentium JCVIHMP022,strain
+1196267,False,Bifidobacterium sp. PEB0163,species
+911598,False,Bifidobacterium animalis subsp. lactis BS 01,strain
+41200,True,Bifidobacterium sp.,species
+1147128,False,Bifidobacterium asteroides PRL2011,strain
+1341694,False,Bifidobacterium [indicum] DSM 20214 = LMG 11587,strain
+1341695,False,Bifidobacterium bombi DSM 19703,strain
+1329411,False,Bifidobacterium aesculapii,species
+1167629,False,Bifidobacterium animalis subsp. lactis ATCC 27673,strain
+1682,True,Bifidobacterium longum subsp. infantis,subspecies
+1519893,False,Bifidobacterium sp. B5,species
+1454376,False,Bifidobacterium pseudocatenulatum IPLA36007,strain
+1603886,False,Bifidobacterium lemurum,species
+1690,False,Bifidobacterium pseudolongum subsp. globosum,subspecies
+565599,False,Bifidobacterium sp. A1,species
+565600,False,Bifidobacterium sp. B4,species
+762209,False,Bifidobacterium callitrichos,species
+762210,False,Bifidobacterium saguini,species
+762211,False,Bifidobacterium stellenboschense,species
+762212,False,Bifidobacterium biavatii,species
+762208,False,Bifidobacterium sp. AFB22-4,species
+565601,False,Bifidobacterium sp. F2,species
+1984871,False,Bifidobacterium vansinderenii,species
+565602,False,Bifidobacterium sp. F8,species
+1706338,False,Bifidobacterium sp. F21,species
+2922857,False,Bifidobacterium sp. FKU,species
+1284459,False,Bifidobacterium sp. DAT702,species
+2922858,False,Bifidobacterium sp. TKU,species
+2922859,False,Bifidobacterium sp. SKU,species
+1075106,False,Bifidobacterium animalis subsp. lactis BLC1,strain
+883062,False,Bifidobacterium bifidum S17,strain
+3436925,True,Bifidobacterium longum LL6991,strain
+2267519,False,Bifidobacterium sp. 77(2005),species
+2849165,False,Bifidobacterium sp. MSK.13.1,species
+2849166,False,Bifidobacterium sp. MSK.13.7,species
+2849167,False,Bifidobacterium sp. MSK.17.10,species
+1333651,False,Bifidobacterium moukalabense,species
+926103,False,Bifidobacterium sp. Aabbto19,species
+926104,False,Bifidobacterium sp. Aahmro6,species
+926105,False,Bifidobacterium sp. Aahmto9,species
+926106,False,Bifidobacterium sp. Acbbto5,species
+926107,False,Bifidobacterium sp. Achmro11,species
+926108,False,Bifidobacterium sp. Adhmto10,species
+926109,False,Bifidobacterium sp. Afpor11,species
+926110,False,Bifidobacterium sp. Afpor3,species
+926111,False,Bifidobacterium sp. Afpoto19,species
+926112,False,Bifidobacterium sp. Alhonro1,species
+926113,False,Bifidobacterium sp. Ammopor6,species
+926114,False,Bifidobacterium sp. AmmpolR4,species
+926115,False,Bifidobacterium sp. Amsbbr10,species
+926116,False,Bifidobacterium sp. Amsbbt12,species
+926117,False,Bifidobacterium sp. Amshmr9,species
+926118,False,Bifidobacterium sp. Amshor11,species
+926119,False,Bifidobacterium sp. Anbbr2,species
+926120,False,Bifidobacterium sp. Anuhmto12,species
+926121,False,Bifidobacterium sp. Mbobb2r3,species
+926122,False,Bifidobacterium sp. Mbobb2t2,species
+926123,False,Bifidobacterium sp. Mbpor2,species
+926124,False,Bifidobacterium sp. Tbbto10,species
+926125,False,Bifidobacterium sp. Thsr10,species
+926126,False,Bifidobacterium sp. Thsr18,species
+926127,False,Bifidobacterium sp. Thsr2,species
+78257,False,Bifidobacterium pullorum subsp. saeculare,subspecies
+1415606,False,Bifidobacterium animalis subsp. lactis CECT 8145,strain
+3051961,False,Bifidobacterium sp. H6bp9,species
+1505727,False,Bifidobacterium commune,species
+1036735,False,Bifidobacterium breve CECT 7263,strain
+1380801,False,Bifidobacterium sp. enrichment culture DGGE gel band 6,species
+1380802,False,Bifidobacterium sp. enrichment culture DGGE gel band 7,species
+2879940,False,Bifidobacterium mizhiense,species
+2750974,False,Bifidobacterium sp. W8112,species
+1755594,False,Bifidobacterium sp. MC_3,species
+1755595,False,Bifidobacterium sp. MC_4,species
+1755596,False,Bifidobacterium sp. MC_5,species
+1755597,False,Bifidobacterium sp. MC_6,species
+1755598,False,Bifidobacterium sp. MC_7,species
+1755599,False,Bifidobacterium sp. MC_8,species
+1755600,False,Bifidobacterium sp. MC_9,species
+1755601,False,Bifidobacterium sp. MC_10,species
+188882,False,Bifidobacterium sp. CJ59,species
+188883,False,Bifidobacterium sp. CJ75,species
+2750975,False,Bifidobacterium sp. W8110,species
+580050,False,Bifidobacterium animalis subsp. lactis Bl-04,strain
+2750977,False,Bifidobacterium sp. M0404,species
+471511,False,Bifidobacterium bombi,species
+1653207,False,Bifidobacterium aquikefiri,species
+866777,False,Bifidobacterium breve ACS-071-V-Sch8b,strain
+2562524,False,Bifidobacterium vespertilionis,species
+356829,False,Bifidobacterium tsurumiense,species
+2750941,False,Bifidobacterium sp. W8108,species
+2750947,False,Bifidobacterium choladohabitans,species
+1298922,True,Bifidobacterium longum D2957,strain
+518634,False,Bifidobacterium breve DSM 20213 = JCM 1192,strain
+518635,False,Bifidobacterium angulatum DSM 20098 = JCM 7096,strain
+1946093,False,Bifidobacterium sp. UBA1086,species
+1946094,False,Bifidobacterium sp. UBA1109,species
+1946095,False,Bifidobacterium sp. UBA1623,species
+1946096,False,Bifidobacterium sp. UBA4282,species
+1946097,False,Bifidobacterium sp. UBA4633,species
+1946098,False,Bifidobacterium sp. UBA4679,species
+518643,False,Bifidobacterium mongoliense,species
+1143283,False,Bifidobacterium sp. AcjBF1,species
+1143284,False,Bifidobacterium sp. AcjBF2,species
+1143285,False,Bifidobacterium sp. AcjBF3,species
+1143287,False,Bifidobacterium sp. AcjBF5,species
+1143288,False,Bifidobacterium sp. AcjBF6,species
+2750967,False,Bifidobacterium polysaccharolyticum,species
+1143290,False,Bifidobacterium sp. AcjBF8,species
+1143291,False,Bifidobacterium sp. AcjBF9,species
+1143292,False,Bifidobacterium sp. AcjBF10,species
+1143286,False,Bifidobacterium sp. AcjBF4,species
+1143289,False,Bifidobacterium sp. AcjBF7,species
+1143293,False,Bifidobacterium sp. AcjBF11,species
+1946103,False,Bifidobacterium sp. UBA6460,species
+1946104,False,Bifidobacterium sp. UBA6481,species
+1946105,False,Bifidobacterium sp. UBA6835,species
+1946106,False,Bifidobacterium sp. UBA6839,species
+1946107,False,Bifidobacterium sp. UBA6860,species
+1946108,False,Bifidobacterium sp. UBA6869,species
+78342,False,Bifidobacterium gallicum,species
+78343,False,Bifidobacterium boum,species
+1946111,False,Bifidobacterium sp. UBA741,species
+78345,False,Bifidobacterium merycicum,species
+78346,False,Bifidobacterium ruminantium,species
+1946114,False,Bifidobacterium sp. UBA7585,species
+1946115,False,Bifidobacterium sp. UBA7866,species
+1946116,False,Bifidobacterium sp. UBA787,species
+2750988,False,Bifidobacterium sp. W8114,species
+1280702,True,Bifidobacterium longum AGR2137,strain
+1161743,True,Bifidobacterium longum subsp. longum 44B,strain
+1161744,True,Bifidobacterium longum subsp. longum 1-6B,strain
+1161745,True,Bifidobacterium longum subsp. longum 2-2B,strain
+2750996,False,Bifidobacterium apousia,species
+1331733,False,Bifidobacterium sp. PB24,species
+2750998,False,Bifidobacterium sp. W8120,species
+2949652,False,Bifidobacterium sp. M3-R-103,species
+2751000,False,Bifidobacterium sp. W8103,species
+2751001,False,Bifidobacterium sp. W8104,species
+2751002,False,Bifidobacterium sp. W8105,species
+2949653,False,Bifidobacterium sp. M3-N-101,species
+2751004,False,Bifidobacterium sp. W8107,species
+2751006,False,Bifidobacterium sp. M0353,species
+2751008,False,Bifidobacterium sp. M0399,species
+858660,False,Bifidobacterium breve EX533959VC21,strain
+2751017,False,Bifidobacterium sp. M0307,species
+2052656,False,Bifidobacterium scaligerum,species
+2986683,False,Bifidobacterium sp. B18995,species
+858694,False,Bifidobacterium breve EX336960VC18,strain
+858695,False,Bifidobacterium breve EX336960VC19,strain
+858696,False,Bifidobacterium breve EX336960VC21,strain
+518739,False,Bifidobacterium sp. IR007-108,species
+518740,False,Bifidobacterium sp. IR007-15,species
+2986688,False,Bifidobacterium sp. B24603,species
+3050596,False,Bifidobacterium sp. UMB6794B,species
+1897062,False,Bifidobacterium sp. 56_9_plus,species
+936351,False,Bifidobacterium breve S27,strain
+936553,False,Bifidobacterium sp. MSX5B,species
+152171,False,Bifidobacterium sp. group I-3,species
+152172,False,Bifidobacterium sp. group II-3,species
+152173,False,Bifidobacterium sp. group III-3,species
+78448,False,Bifidobacterium pullorum,species
+2675318,False,Bifidobacterium sp. VB11,species
+2675319,False,Bifidobacterium sp. VB17,species
+2675320,False,Bifidobacterium sp. VB21,species
+2675321,False,Bifidobacterium panos,species
+2675322,False,Bifidobacterium oedipodis,species
+2675323,False,Bifidobacterium moraviense,species
+2675324,False,Bifidobacterium olomucense,species
+2675325,False,Bifidobacterium erythrocebi,species
+871037,False,Bifidobacterium sp. HGAT1,species
+871038,False,Bifidobacterium sp. HGAT10,species
+871040,False,Bifidobacterium sp. HGAT3,species
+871041,False,Bifidobacterium sp. HGAT4,species
+871039,False,Bifidobacterium sp. HGAT2,species
+871043,False,Bifidobacterium sp. HGAT6,species
+871044,False,Bifidobacterium sp. HGAT7,species
+871045,False,Bifidobacterium sp. HGAT8,species
+871046,False,Bifidobacterium sp. HGAT9,species
+871042,False,Bifidobacterium sp. HGAT5,species
+3050605,False,Bifidobacterium sp. UMB6791A,species
+1981071,False,Bifidobacterium sp. C-2,species
+1981072,False,Bifidobacterium sp. B-3,species
+2871951,False,Bifidobacterium sp. RACS_AR14,species
+2871952,False,Bifidobacterium sp. RACS_AR15,species
+2871954,False,Bifidobacterium sp. RACS_AR17,species
+2871955,False,Bifidobacterium sp. RACS_AR18,species
+2650773,False,Bifidobacterium cebidarum,species
+2650774,False,Bifidobacterium leontopitheci,species
+983706,False,Bifidobacterium reuteri,species
+1981082,False,Bifidobacterium sp. B-13,species
+2871968,False,Bifidobacterium sp. RACS_AR31,species
+2871969,False,Bifidobacterium sp. RACS_AR32,species
+2871970,False,Bifidobacterium sp. RACS_AR33,species
+1280675,False,Bifidobacterium sp. AGR2158,species
+2871971,False,Bifidobacterium sp. RACS_AR34,species
+2871972,False,Bifidobacterium sp. RACS_AR35,species
+2871973,False,Bifidobacterium sp. RACS_AR36,species
+2871974,False,Bifidobacterium sp. RACS_AR37,species
+2871975,False,Bifidobacterium sp. RACS_AR38,species
+2871976,False,Bifidobacterium sp. RACS_AR39,species
+2871977,False,Bifidobacterium sp. RACS_AR40,species
+1325742,False,Bifidobacterium sp. A15,species
+1161904,True,Bifidobacterium longum subsp. longum 35B,strain
+484020,False,Bifidobacterium bifidum BGN4,strain
+2871993,False,Bifidobacterium sp. RACS_AR56,species
+2871994,False,Bifidobacterium sp. RACS_AR57,species
+537275,False,Bifidobacterium sp. DJF_RP64k1,species
+537276,False,Bifidobacterium sp. DJF_WC44,species
+2871995,False,Bifidobacterium sp. RACS_AR58,species
+2871996,False,Bifidobacterium sp. RACS_AR59,species
+2493119,False,Bifidobacterium xylocopae,species
+2493120,False,Bifidobacterium aemilianum,species
+2871997,False,Bifidobacterium sp. RACS_AR60,species
+1708738,False,Bifidobacterium sp. ZR-107,species
+2871998,False,Bifidobacterium sp. RACS_AR61,species
+2871999,False,Bifidobacterium sp. RACS_AR62,species
+2872000,False,Bifidobacterium sp. RACS_AR63,species
+2872001,False,Bifidobacterium sp. RACS_AR64,species
+2872002,False,Bifidobacterium sp. RACS_AR65,species
+2872003,False,Bifidobacterium sp. RACS_AR66,species
+2872004,False,Bifidobacterium sp. RACS_AR67,species
+2872008,False,Bifidobacterium sp. RACS_AR71,species
+492235,False,Bifidobacterium sp. LLS001,species
+2872009,False,Bifidobacterium sp. RACS_AR72,species
+2986695,False,Bifidobacterium sp. B24610,species
+2986696,False,Bifidobacterium sp. B24611,species
+2986697,False,Bifidobacterium sp. B24612,species
+2605776,False,Bifidobacterium sp. WCA-178-WT-4B,species
+2986699,False,Bifidobacterium sp. B24615,species
+2986700,False,Bifidobacterium sp. B24616,species
+539347,False,Bifidobacterium sp. IR007-113,species
+539348,False,Bifidobacterium sp. IR007-57,species
+539349,False,Bifidobacterium sp. IR007-93,species
+539350,False,Bifidobacterium sp. IR007-94,species
+2986703,False,Bifidobacterium sp. M02406,species
+2986709,False,Bifidobacterium sp. M03010,species
+2986712,False,Bifidobacterium sp. M03015-2,species
+2986714,False,Bifidobacterium sp. M03018,species
+473819,False,Bifidobacterium dentium ATCC 27678,strain
+359132,False,Bifidobacterium sp. A24,species
+391904,False,Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088,strain
+2986722,False,Bifidobacterium sp. M03027-2,species
+1325798,False,Bifidobacterium sp. A30,species
+2986728,False,Bifidobacterium sp. M03034,species
+2986729,False,Bifidobacterium sp. M03035,species
+2986734,False,Bifidobacterium sp. M03042,species
+2986735,False,Bifidobacterium sp. M03043,species
+2986736,False,Bifidobacterium sp. M03044,species
+2986737,False,Bifidobacterium sp. M03045,species
+2986738,False,Bifidobacterium sp. M03046,species
+2986739,False,Bifidobacterium sp. M03047,species
+2986740,False,Bifidobacterium sp. M03048,species
+2986741,False,Bifidobacterium sp. M03049,species
+1221373,False,Bifidobacterium sp. 11-5-G,species
+2986750,False,Bifidobacterium sp. M1543,species
+2986752,False,Bifidobacterium sp. PP167,species
+2986753,False,Bifidobacterium sp. PP168,species
+1696514,False,Bifidobacterium sp. WK,species
+1696515,False,Bifidobacterium sp. WKA,species
+1696516,False,Bifidobacterium sp. WKC,species
+2986754,False,Bifidobacterium sp. PP169,species
+3470097,False,Bifidobacterium sp. JNUCC 75,species
+326426,False,Bifidobacterium breve UCC2003,strain
+705309,False,Bifidobacterium sp. JCM 6439,species
+471860,False,Bifidobacterium sp. GC61,species
+2720568,False,Bifidobacterium sp. CMB015,species
+308029,False,Bifidobacterium sp. h12,species
+2720573,False,Bifidobacterium sp. CMB044,species
+2720577,False,Bifidobacterium sp. CMB256,species
+2720582,False,Bifidobacterium sp. CMB332,species
+2720583,False,Bifidobacterium sp. CMB342,species
+2720584,False,Bifidobacterium sp. CMB366,species
+1350471,True,Bifidobacterium longum subsp. longum 1-5B,strain
+1350472,True,Bifidobacterium longum subsp. longum 7-1B,strain
+1350473,True,Bifidobacterium longum subsp. longum 17-1B,strain
+1280701,False,Bifidobacterium pseudolongum AGR2145,strain
+2052941,False,Bifidobacterium callitrichidarum,species
+1121107,False,Bifidobacterium choerinum DSM 20434,strain
+1121108,False,Bifidobacterium magnum DSM 20222,strain
+1121109,False,Bifidobacterium minimum DSM 20102,strain
+1121110,True,Bifidobacterium subtile DSM 20096,strain
+1121111,False,Bifidobacterium thermacidophilum subsp. thermacidophilum DSM 15837,strain
+1121112,False,Bifidobacterium tsurumiense DSM 17777,strain
+246618,False,Bifidobacterium thermacidophilum,species
+1248097,False,Bifidobacterium sp. SMst02,species
+2614131,False,Bifidobacterium choloepi,species
+3448753,False,Bifidobacterium sp. ESL1130,species
+123779,False,Bifidobacterium sp. SRW-001,species
+123780,False,Bifidobacterium sp. SRW-002,species
+123781,False,Bifidobacterium sp. SRW-003,species
+123782,False,Bifidobacterium sp. SRW-004,species
+240522,False,Bifidobacterium sp. MW-81,species
+240523,False,Bifidobacterium sp. MW-613,species
+240524,False,Bifidobacterium sp. MW-623,species
+240525,False,Bifidobacterium sp. MW-222,species
+500634,False,Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456,strain
+2306972,False,Bifidobacterium castoris,species
+2306973,False,Bifidobacterium callimiconis,species
+2306974,False,Bifidobacterium samirii,species
+2306975,False,Bifidobacterium goeldii,species
+2306976,False,Bifidobacterium dolichotidis,species
+1168290,False,Bifidobacterium animalis subsp. lactis B420,strain
+1465255,False,Bifidobacterium sp. UTCIF-1,species
+1465256,False,Bifidobacterium sp. UTCIF-24,species
+1465257,False,Bifidobacterium sp. UTCIF-3,species
+1465258,False,Bifidobacterium sp. UTCIF-36,species
+1465259,False,Bifidobacterium sp. UTCIF-37,species
+1465260,False,Bifidobacterium sp. UTCIF-38,species
+1465261,False,Bifidobacterium sp. UTBIF-56,species
+1465262,False,Bifidobacterium sp. UTBIF-68,species
+1465263,False,Bifidobacterium sp. UTBIF-78,species
+35760,False,Bifidobacterium choerinum,species
+3046316,False,Bifidobacterium sp. UMB6791B,species
+3046326,False,Bifidobacterium sp. UMB1197,species
+3046328,False,Bifidobacterium sp. UMB1230,species
+78344,False,Bifidobacterium pullorum subsp. gallinarum,subspecies
+555970,False,Bifidobacterium animalis subsp. lactis DSM 10140,strain
+447547,False,Bifidobacterium sp. oral clone 5RH-30,species
+3046350,False,Bifidobacterium sp. UMB9259,species
+1960968,False,Bifidobacterium italicum,species
+1960969,False,Bifidobacterium criceti,species
+486409,False,Bifidobacterium animalis subsp. lactis HN019,strain
+1465359,False,Bifidobacterium sp. UTCIF-39,species
+3230739,False,Bifidobacterium apicola,species
+2939929,False,Bifidobacterium sp. WB2880,species
+1004570,False,Bifidobacterium sp. CWCAST32,species
+1004571,False,Bifidobacterium sp. CWCAST40,species
+218140,False,Bifidobacterium psychraerophilum,species
+1004572,False,Bifidobacterium sp. CWSAB40,species
+1004573,False,Bifidobacterium sp. CWSAB6,species
+1004574,False,Bifidobacterium sp. HMLN1,species
+1004575,False,Bifidobacterium sp. HMLN12,species
+1004576,False,Bifidobacterium sp. HMLN13,species
+1004577,False,Bifidobacterium sp. HMLN14,species
+1004578,False,Bifidobacterium sp. HMLN5,species
+1004579,False,Bifidobacterium sp. HMLN8,species
+1004580,False,Bifidobacterium sp. HMSH1,species
+1004581,False,Bifidobacterium sp. HMSH2,species
+1004582,False,Bifidobacterium sp. HMSH5,species
+1004584,False,Bifidobacterium sp. PG12A,species
+1004585,False,Bifidobacterium sp. PG12B,species
+1004586,False,Bifidobacterium sp. PG13,species
+1004587,False,Bifidobacterium sp. PG15,species
+1854502,False,Bifidobacterium sp. PR4,species
+1004589,False,Bifidobacterium sp. PG2,species
+1004590,False,Bifidobacterium sp. PG9,species
+1854503,False,Bifidobacterium sp. PR8,species
+1254439,False,Bifidobacterium thermophilum RBL67,strain
+1643573,False,Bifidobacterium sp. 101,species
+1643574,False,Bifidobacterium sp. 102,species
+1643575,False,Bifidobacterium sp. 104,species
+1643576,False,Bifidobacterium sp. 105,species
+1643577,False,Bifidobacterium sp. 106,species
+1643578,False,Bifidobacterium sp. 107,species
+1643579,False,Bifidobacterium sp. 109,species
+1459260,False,Bifidobacterium sp. 6_2_2CO2,species
+1459261,False,Bifidobacterium sp. 7_10_1CO2,species
+1459262,False,Bifidobacterium sp. G5_2_2BCO2,species
+1459263,False,Bifidobacterium sp. G5_2_2TCO2,species
+1459264,False,Bifidobacterium sp. G7_1_1BCO2,species
+1459265,False,Bifidobacterium sp. G7_1_1TCO2,species
+1459266,False,Bifidobacterium sp. G7_1_2BCO2,species
+158787,False,Bifidobacterium scardovii,species
+1459267,False,Bifidobacterium sp. G7_2_2BCO2,species
+1459268,False,Bifidobacterium sp. G7_4_4BCO2,species
+1459269,False,Bifidobacterium sp. M2_1_2BCO2,species
+1643582,False,Bifidobacterium sp. 112,species
+1643583,False,Bifidobacterium sp. 114,species
+1643584,False,Bifidobacterium sp. 115,species
+1643585,False,Bifidobacterium sp. 116,species
+1643586,False,Bifidobacterium sp. 117,species
+1643587,False,Bifidobacterium sp. 118,species
+1643588,False,Bifidobacterium sp. 119,species
+1643589,False,Bifidobacterium sp. 121,species
+1643590,False,Bifidobacterium sp. 122,species
+1643591,False,Bifidobacterium sp. 123,species
+1643592,False,Bifidobacterium sp. 124,species
+1643593,False,Bifidobacterium sp. 125,species
+1643594,False,Bifidobacterium sp. 127,species
+1643595,False,Bifidobacterium sp. 128,species
+1643596,False,Bifidobacterium sp. 130,species
+1643597,False,Bifidobacterium sp. 131,species
+1643598,False,Bifidobacterium sp. 132,species
+1643599,False,Bifidobacterium sp. 133,species
+1643600,False,Bifidobacterium sp. 134,species
+1643601,False,Bifidobacterium sp. 135,species
+1643602,False,Bifidobacterium sp. 136,species
+1643603,False,Bifidobacterium sp. 137,species
+1643604,False,Bifidobacterium sp. 139,species
+1643605,False,Bifidobacterium sp. 140,species
+1643606,False,Bifidobacterium sp. 141,species
+1643607,False,Bifidobacterium sp. 142,species
+1643608,False,Bifidobacterium sp. 143,species
+1643609,False,Bifidobacterium sp. 144,species
+1643610,False,Bifidobacterium sp. 145,species
+1643611,False,Bifidobacterium sp. 146,species
+1643612,False,Bifidobacterium sp. 147,species
+1643613,False,Bifidobacterium sp. 148,species
+1643614,False,Bifidobacterium sp. 149,species
+1643615,False,Bifidobacterium sp. 151,species
+1643616,False,Bifidobacterium sp. 152,species
+1643617,False,Bifidobacterium sp. 153,species
+1643618,False,Bifidobacterium sp. 154,species
+1643619,False,Bifidobacterium sp. 155,species
+1643620,False,Bifidobacterium sp. 156,species
+1643621,False,Bifidobacterium sp. 157,species
+1643622,False,Bifidobacterium sp. 158,species
+1643623,False,Bifidobacterium sp. 159,species
+33905,False,Bifidobacterium thermophilum,species
+1643625,False,Bifidobacterium sp. 161,species
+1643626,False,Bifidobacterium sp. 162,species
+1643627,False,Bifidobacterium sp. 163,species
+1643628,False,Bifidobacterium sp. 164,species
+2940015,False,Bifidobacterium sp. WB4417,species
+1000567,False,Bifidobacterium longum 3_1_37DFAAB,strain
+650364,False,Bifidobacterium sp. JCM 7013,species
+650365,False,Bifidobacterium sp. JCM 7022,species
+650366,False,Bifidobacterium sp. JCM 7023,species
+650367,False,Bifidobacterium sp. JCM 7027,species
+650368,False,Bifidobacterium sp. JCM 7028,species
+703613,False,Bifidobacterium animalis subsp. animalis ATCC 25527,strain
+480387,False,Bifidobacterium sp. PFGE 8,species
+480388,False,Bifidobacterium sp. PFGE 9a,species
+480389,False,Bifidobacterium sp. PFGE 14,species
+480390,False,Bifidobacterium sp. PFGE 18,species
+1322347,True,Bifidobacterium longum E18,strain
+871562,False,Bifidobacterium dentium ATCC 27679,strain
+2172043,True,Bifidobacterium tibiigranuli,species
+2939991,False,Bifidobacterium sp. WB4392,species
+398513,False,Bifidobacterium bifidum NCIMB 41171,strain
+398514,False,Bifidobacterium bifidum JCM 1254,strain
+398515,False,Bifidobacterium bifidum DSM 20215,strain
+398516,False,Bifidobacterium pullorum ATCC 49618,strain
+2809025,False,Bifidobacterium sp. CP2,species
+2809026,False,Bifidobacterium colobi,species
+2809027,False,Bifidobacterium amazonense,species
+2809028,False,Bifidobacterium santillanense,species
+2809029,False,Bifidobacterium sp. SO1,species
+2809030,False,Bifidobacterium sp. SO4,species
+2940001,False,Bifidobacterium sp. WB4402,species
+1676495,False,Bifidobacterium sp. CW1175_b,species
+1676496,False,Bifidobacterium sp. CW2177,species
+31954,False,Bifidobacterium pseudolongum subsp. pseudolongum,subspecies
+2940003,False,Bifidobacterium sp. WB4404,species
+3081440,False,Bifidobacterium apis,species
+871661,False,Bifidobacterium sp. G29,species
+871662,False,Bifidobacterium sp. M45,species
+871663,False,Bifidobacterium sp. M7,species
+478445,False,Bifidobacterium longum BORI,strain
+1207542,False,Bifidobacterium bifidum LMG 13195,strain
+1207543,False,Bifidobacterium bifidum IPLA 20015,strain
+2661626,False,Bifidobacterium sp. SMB2,species
+2661627,False,Bifidobacterium saimiriisciurei,species
+2661628,False,Bifidobacterium platyrrhinorum,species
+146683,False,uncultured Bifidobacterium sp. 15B,species
+146684,False,uncultured Bifidobacterium sp. 13D,species
+146685,False,uncultured Bifidobacterium sp. 15A,species
+146686,False,uncultured Bifidobacterium sp. 15D,species
+142593,False,Bifidobacterium sp. ISO3519,species
+146687,False,uncultured Bifidobacterium sp. 16B,species
+146688,False,uncultured Bifidobacterium sp. 16C,species
+146689,False,uncultured Bifidobacterium sp. 16F,species
+146690,False,uncultured Bifidobacterium sp. 7B,species
+146691,False,uncultured Bifidobacterium sp. 7G,species
+146692,False,uncultured Bifidobacterium sp. 9A,species
+146693,False,uncultured Bifidobacterium sp. 9B,species
+146694,False,uncultured Bifidobacterium sp. 9C,species
+2792717,False,Bifidobacterium pullorum subsp. pullorum,subspecies
+261394,False,Bifidobacterium sp. CFAR 172,species
+261395,False,Bifidobacterium sp. BcRW10,species
+566552,False,Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043,strain
+1074482,False,Bifidobacterium breve DPC 6330,strain
+2884902,False,Bifidobacterium sp. MSK23_125,species
+2884905,False,Bifidobacterium sp. MSK23_139,species
+2983212,False,Bifidobacterium sp. ESL0682,species
+2983214,False,Bifidobacterium sp. ESL0690,species
+116016,False,Bifidobacterium sp. 65947,species
+165168,False,Bifidobacterium sp. CB8,species
+165169,False,Bifidobacterium sp. CB38,species
+165170,False,Bifidobacterium sp. CS16,species
+165171,False,Bifidobacterium sp. CS2,species
+165172,False,Bifidobacterium sp. CS30,species
+2983219,False,Bifidobacterium sp. ESL0704,species
+2983220,False,Bifidobacterium sp. ESL0728,species
+2983222,False,Bifidobacterium sp. ESL0732,species
+2983224,False,Bifidobacterium sp. ESL0735,species
+2983225,False,Bifidobacterium sp. ESL0744,species
+2983226,False,Bifidobacterium sp. ESL0745,species
+333116,False,Bifidobacterium sp. TM-7,species
+2983227,False,Bifidobacterium sp. ESL0763,species
+2983228,False,Bifidobacterium sp. ESL0764,species
+2983229,False,Bifidobacterium sp. ESL0769,species
+2983230,False,Bifidobacterium sp. ESL0775,species
+2983231,False,Bifidobacterium sp. ESL0784,species
+2983233,False,Bifidobacterium sp. ESL0790,species
+2983235,False,Bifidobacterium sp. ESL0798,species
+2983236,False,Bifidobacterium sp. ESL0800,species
+165187,True,uncultured Bifidobacterium sp.,species
+742729,False,Bifidobacterium animalis subsp. lactis Bi-07,strain
+537937,True,Bifidobacterium longum subsp. infantis CCUG 52486,strain
+1402194,False,Bifidobacterium animalis subsp. animalis IM386,strain
+1203540,False,Bifidobacterium breve HPH0326,strain
+3059035,False,Bifidobacterium fermentum,species
+3059038,False,Bifidobacterium aquikefiricola,species
+361824,False,Bifidobacterium sp. 129,species
+361825,False,Bifidobacterium sp. 150,species
+361826,False,Bifidobacterium sp. 17,species
+361827,False,Bifidobacterium sp. 172,species
+361828,False,Bifidobacterium sp. 176,species
+361829,False,Bifidobacterium sp. 182,species
+361830,False,Bifidobacterium sp. 197,species
+361831,False,Bifidobacterium sp. 202,species
+361832,False,Bifidobacterium sp. 215,species
+361833,False,Bifidobacterium sp. 216,species
+361834,False,Bifidobacterium sp. 234,species
+361835,False,Bifidobacterium sp. 265,species
+361836,False,Bifidobacterium sp. 266,species
+361837,False,Bifidobacterium sp. 27,species
+361838,False,Bifidobacterium sp. 272,species
+361839,False,Bifidobacterium sp. 283,species
+630128,False,Bifidobacterium sp. HM5-2,species
+361841,False,Bifidobacterium sp. 316,species
+361840,False,Bifidobacterium sp. 286,species
+361842,False,Bifidobacterium sp. 320,species
+361843,False,Bifidobacterium sp. 323,species
+361845,False,Bifidobacterium sp. 344,species
+361844,False,Bifidobacterium sp. 343,species
+361846,False,Bifidobacterium sp. 360,species
+361847,False,Bifidobacterium sp. 397,species
+28025,False,Bifidobacterium animalis,species
+28026,False,Bifidobacterium pseudocatenulatum,species
+361848,False,Bifidobacterium sp. 401,species
+361849,False,Bifidobacterium sp. 434,species
+361850,False,Bifidobacterium sp. 445,species
+361854,False,Bifidobacterium parmae,species
+361855,False,Bifidobacterium sp. 98,species
+361856,False,Bifidobacterium sp. 84,species
+361851,False,Bifidobacterium sp. 470,species
+361852,False,Bifidobacterium sp. 471,species
+361853,False,Bifidobacterium sp. 69,species
+1611408,False,Bifidobacterium sp. CCFM8409,species
+1611409,False,Bifidobacterium sp. CCFM8410,species
+212365,False,Bifidobacterium porcinum,species
+3388813,False,Bifidobacterium sp. LH_230,species
+1611410,False,Bifidobacterium sp. CCFM8411,species
+3388814,False,Bifidobacterium sp. LH_274,species
+3388815,False,Bifidobacterium sp. LH_312,species
+3388816,False,Bifidobacterium sp. LH_384,species
+3388817,False,Bifidobacterium sp. LH_389,species
+1611411,False,Bifidobacterium sp. CCFM8412,species
+3388818,False,Bifidobacterium sp. LH_410,species
+3388819,False,Bifidobacterium sp. LH_413,species
+3388820,False,Bifidobacterium sp. LH_416,species
+3388821,False,Bifidobacterium sp. LH_417,species
+1611412,False,Bifidobacterium sp. CCFM843,species
+3388822,False,Bifidobacterium sp. LH_418,species
+3388823,False,Bifidobacterium sp. LH_419,species
+3388824,False,Bifidobacterium sp. LH_421,species
+3388825,False,Bifidobacterium sp. LH_424,species
+3388826,False,Bifidobacterium sp. LH_426,species
+3388827,False,Bifidobacterium sp. LH_449,species
+3388828,False,Bifidobacterium sp. LH_450,species
+3388829,False,Bifidobacterium sp. LH_456,species
+3388830,False,Bifidobacterium sp. LH_457,species
+3388831,False,Bifidobacterium sp. LH_470,species
+3388832,False,Bifidobacterium sp. LH_491,species
+3388833,False,Bifidobacterium sp. LH_512,species
+3388834,False,Bifidobacterium sp. LH_521,species
+3388835,False,Bifidobacterium sp. LH_558,species
+3388836,False,Bifidobacterium sp. LH_605,species
+3388837,False,Bifidobacterium sp. LH_716,species
+3388838,False,Bifidobacterium sp. LH_717,species
+3388839,False,Bifidobacterium sp. LH_718,species
+3388840,False,Bifidobacterium sp. LH_725,species
+3388841,False,Bifidobacterium sp. LH_730,species
+3388842,False,Bifidobacterium sp. LH_743,species
+1435051,False,Bifidobacterium moukalabense DSM 27321,strain
+1205679,True,Bifidobacterium longum subsp. longum CECT 7347,strain
+718253,False,Bifidobacterium pseudocatenulatum D2CA,strain
+1437605,False,Bifidobacterium actinocoloniiforme DSM 22766,strain
+1437606,False,Bifidobacterium bohemicum DSM 22767,strain
+1437607,False,Bifidobacterium saguini DSM 23967,strain
+79262,False,Bifidobacterium thermacidophilum subsp. thermacidophilum,subspecies
+1437608,False,Bifidobacterium biavatii DSM 23969,strain
+1365967,False,Bifidobacterium breve MCC 1454,strain
+1437609,False,Bifidobacterium callitrichos DSM 23973,strain
+1643580,False,Bifidobacterium sp. 110,species
+1365968,False,Bifidobacterium breve MCC 1604,strain
+1437610,False,Bifidobacterium reuteri DSM 23975,strain
+1263057,False,Bifidobacterium adolescentis CAG:119,strain
+1385938,False,Bifidobacterium breve 12L,strain
+1643581,False,Bifidobacterium sp. 111,species
+1263059,False,Bifidobacterium longum CAG:69,strain
+1437611,False,Bifidobacterium pullorum subsp. saeculare DSM 6531 = LMG 14934,strain
+1263060,False,Bifidobacterium pseudocatenulatum CAG:263,strain
+1150423,False,Bifidobacterium dentium JCM 1195 = DSM 20436,strain
+1365969,False,Bifidobacterium breve MCC 1605,strain
+1385939,False,Bifidobacterium breve JCM 7017,strain
+1385940,False,Bifidobacterium breve JCM 7019,strain
+1385941,False,Bifidobacterium breve NCFB 2258,strain
+1385942,False,Bifidobacterium breve 689b,strain
+1385943,False,Bifidobacterium breve 2L,strain
+1385944,False,Bifidobacterium breve 31L,strain
+1437612,False,Bifidobacterium adolescentis JCM 15918,strain
+1422837,False,Bifidobacterium bifidum VIII-210,strain
+1422838,False,Bifidobacterium longum VIII-240,strain
+1422839,False,Bifidobacterium longum X-95,strain
+1422840,False,Bifidobacterium adolescentis XVI-120,strain
+1422841,False,Bifidobacterium adolescentis XVI122,strain
+1150460,False,Bifidobacterium catenulatum subsp. kashiwanohense JCM 15439 = DSM 21854,strain
+1150461,False,Bifidobacterium scardovii JCM 12489 = DSM 13734,strain
+2045438,False,Bifidobacterium primatium,species
+1293823,False,Bifidobacterium mellis,species
+2045440,False,Bifidobacterium felsineum,species
+2045441,False,Bifidobacterium simiarum,species
+1293826,False,Bifidobacterium kimbladii,species
+1293824,False,Bifidobacterium sp. Bma6N,species
+1293827,False,Bifidobacterium sp. H1HS2N,species
+1293829,False,Bifidobacterium sp. H6bp3N,species
+2045439,False,Bifidobacterium rousetti,species
+1394175,False,Bifidobacterium sp. 7101,species
+1394176,False,Bifidobacterium sp. A11,species
+1461767,False,Bifidobacterium sp. 'ex marmoset',species
+1261072,False,Bifidobacterium breve JCP7499,strain
+1453590,False,Bifidobacterium sp. MRM_5/18,species
+1453591,False,Bifidobacterium sp. MRM_8/19,species
+890402,True,Bifidobacterium longum subsp. longum BBMN68,strain
+3143206,True,Bifidobacterium sp. RTP21102st3_E2_RTP21102_210122,species
+1035817,True,Bifidobacterium longum subsp. longum KACC 91563,strain
+1410605,False,Bifidobacterium pseudolongum subsp. globosum DSM 20092,strain
+759350,True,Bifidobacterium longum subsp. longum JDM301,strain
+138809,False,Bifidobacterium sp. PL1,species
+1647674,False,Bifidobacterium sp. S482,species
+2817960,False,Bifidobacterium sp. B4079,species
+1357382,False,Bifidobacterium angulatum F16_22,strain
+1173065,False,Bifidobacterium bifidum CECT 7366,strain
+2817961,False,Bifidobacterium sp. B4001,species
+2817962,False,Bifidobacterium sp. B4142,species
+552531,False,Bifidobacterium animalis subsp. lactis BB-12,strain
+1410644,False,Bifidobacterium adolescentis DSM 20087,strain
+2817963,False,Bifidobacterium sp. B3998,species
+1410646,False,Bifidobacterium merycicum DSM 6492,strain
+390743,False,Bifidobacterium sp. M24,species
+1410647,False,Bifidobacterium ruminantium DSM 6489,strain
+1410645,False,Bifidobacterium boum DSM 20432,strain
+2817964,False,Bifidobacterium sp. B4077,species
+1410648,False,Bifidobacterium thermophilum DSM 20212,strain
+2817965,False,Bifidobacterium sp. B4081,species
+2850402,False,Bifidobacterium sp. B14384H7,species
+2020963,False,Bifidobacterium anseris,species
+2020964,False,Bifidobacterium margollesii,species
+2020965,False,Bifidobacterium imperatoris,species
+2817966,False,Bifidobacterium sp. B4107,species
+2985571,False,Bifidobacterium sp. KRGSERBCFTRI,species
+2817967,False,Bifidobacterium sp. B4111,species
+327277,False,Bifidobacterium crudilactis,species
+2817968,False,Bifidobacterium sp. B4114,species
+1455729,False,Bifidobacterium sp. MRM_5/10,species
+1455730,False,Bifidobacterium sp. MRM_5/9,species
+1455731,False,Bifidobacterium sp. MRM_8/14,species
+1455732,False,Bifidobacterium sp. MRM_9/14,species
+1455733,False,Bifidobacterium sp. MRM_9/3,species
+1455734,False,Bifidobacterium sp. MRM_9/6,species
+1576448,False,Bifidobacterium sp. g2-6,species
+3440246,False,Bifidobacterium sp. LCP19S3_E9,species
+3440249,False,Bifidobacterium sp. LCP19S3_H1,species
+669306,False,Bifidobacterium sp. N33,species
+1457183,False,Bifidobacterium longum subsp. infantis EK3,strain
+548480,True,Bifidobacterium longum subsp. longum ATCC 55813,strain
+1457184,True,Bifidobacterium longum subsp. longum 72B,strain
+1457185,True,Bifidobacterium longum subsp. longum EK5,strain
+1457186,True,Bifidobacterium longum subsp. longum EK13,strain
+1679,True,Bifidobacterium longum subsp. longum,subspecies
+1680,False,Bifidobacterium adolescentis,species
+1681,True,Bifidobacterium bifidum,species
+929426,False,Bifidobacterium sp. JCM 7042,species
+1683,False,Bifidobacterium angulatum,species
+1684,False,Bifidobacterium asteroides,species
+1685,False,Bifidobacterium breve,species
+1686,False,Bifidobacterium catenulatum,species
+1687,False,Bifidobacterium coryneforme,species
+1688,False,Bifidobacterium cuniculi,species
+1689,False,Bifidobacterium dentium,species
+638617,False,Bifidobacterium bohemicum,species
+1691,False,Bifidobacterium indicum,species
+1692,False,Bifidobacterium magnum,species
+1693,False,Bifidobacterium minimum,species
+1694,False,Bifidobacterium pseudolongum,species
+638619,False,Bifidobacterium actinocoloniiforme,species
+310940,False,Bifidobacterium sp. S13-05,species
+310941,False,Bifidobacterium sp. S18-11,species
+638618,False,Bifidobacterium sp. LISLUCIII-2,species
+638620,False,Bifidobacterium sp. LISPASI-P3,species
+638622,False,Bifidobacterium sp. LUCL-W4,species
+1695,True,Bifidobacterium longum subsp. suis,subspecies
+1643624,False,Bifidobacterium sp. 160,species
+2887349,False,Bifidobacterium sp. BF19,species
+2969273,False,Bifidobacterium sp. FOS_1,species
+2969274,False,Bifidobacterium sp. FOS_2,species
+2969275,False,Bifidobacterium sp. FOS_3,species
+2969276,False,Bifidobacterium sp. GOS_1,species
+2969277,False,Bifidobacterium sp. GOS_2,species
+2969278,False,Bifidobacterium sp. GOS_3,species
+2969279,False,Bifidobacterium sp. FOS_GOS1,species
+2610880,False,Bifidobacterium canis,species
+2969280,False,Bifidobacterium sp. FOS_GOS2,species
+2969281,False,Bifidobacterium sp. FOS_GOS3,species
+205913,True,Bifidobacterium longum DJO10A,strain
+366314,False,Bifidobacterium sp. BBDP69,species
+216816,True,Bifidobacterium longum,species
+2981616,False,Bifidobacterium catenulatum subsp. catenulatum,subspecies
+435957,False,Bifidobacterium sp. Bisn6,species
+1281781,False,Bifidobacterium animalis subsp. lactis Bl12,strain
+435960,False,Bifidobacterium sp. Trm9,species
+3133177,False,Bifidobacterium hominis,species
+1249017,False,Bifidobacterium animalis subsp. lactis Bf6,strain
+3342075,True,Bifidobacterium sp. 2450,species
+163580,False,Bifidobacterium sp. oral strain H6-M4,species
+411481,False,Bifidobacterium adolescentis L2-32,strain
+2608897,True,unclassified Bifidobacterium,no rank
+2608898,False,Bifidobacterium sp. H16,species
+1300227,True,Bifidobacterium longum subsp. longum GT15,strain
+367928,False,Bifidobacterium adolescentis ATCC 15703,strain
+2608901,False,Bifidobacterium sp. H19,species
+1070854,False,Bifidobacterium sp. HM5-5,species
+1548039,False,Bifidobacterium sp. DMBCT1,species
+2608902,False,Bifidobacterium sp. H20,species
+2608903,False,Bifidobacterium sp. H21,species
+2608904,False,Bifidobacterium sp. H22,species
+3448581,False,Bifidobacterium sp. ESL0198,species
+2608908,False,Bifidobacterium sp. H25,species
+3448582,False,Bifidobacterium sp. ESL0824,species
+3448583,False,Bifidobacterium sp. ESL0827,species
+3448584,False,Bifidobacterium sp. ESL0170,species
+2608912,False,Bifidobacterium sp. H35,species
+3448585,False,Bifidobacterium sp. ESL0822,species
+3448586,False,Bifidobacterium sp. ESL0820,species
+3448587,False,Bifidobacterium sp. ESL0825,species
+3448588,False,Bifidobacterium sp. ESL0200,species
+3448589,False,Bifidobacterium sp. ESL0819,species
+2823958,False,Bifidobacterium sp. L2,species
+2823959,False,Bifidobacterium sp. L9,species
+2608924,False,Bifidobacterium sp. H44,species
+3122979,False,Bifidobacterium favimelis,species
+1447715,False,Bifidobacterium pseudolongum PV8-2,strain
+1447716,False,Bifidobacterium catenulatum PV20-2,strain
+1266716,True,Bifidobacterium longum subsp. longum CMCC P0001,strain
+565040,True,Bifidobacterium longum subsp. infantis 157F,strain
+565042,True,Bifidobacterium longum subsp. longum JCM 1217,strain
+573236,False,Bifidobacterium animalis subsp. lactis V9,strain
+302911,False,Bifidobacterium animalis subsp. lactis,subspecies
+302912,False,Bifidobacterium animalis subsp. animalis,subspecies
+77635,True,Bifidobacterium subtile,species
+1435463,False,Bifidobacterium porcinum DSM 17755,strain
+1435464,False,Bifidobacterium psychraerophilum DSM 22366,strain
+1263058,False,Bifidobacterium bifidum CAG:234,strain
+1946099,False,Bifidobacterium sp. UBA6343,species
+206672,True,Bifidobacterium longum NCC2705,strain
+1946100,False,Bifidobacterium sp. UBA6396,species
+147288,False,uncultured Bifidobacterium sp. 1-2A,species
+1946101,False,Bifidobacterium sp. UBA6425,species
+147289,False,uncultured Bifidobacterium sp. 1-2B,species
+147290,False,uncultured Bifidobacterium sp. 3-3A,species
+2013020,False,Bifidobacterium sp. N4G05,species
+2013021,False,Bifidobacterium sp. N5G01,species
+575326,False,Bifidobacterium sp. 103,species
+575327,False,Bifidobacterium sp. 126,species
+575328,False,Bifidobacterium sp. S-10,species
+1946102,False,Bifidobacterium sp. UBA6444,species
+3229533,False,Bifidobacterium sp. JG_Bg468,species
+1765219,False,Bifidobacterium eulemuris,species
+147291,False,uncultured Bifidobacterium sp. 3-4A,species
+147292,False,uncultured Bifidobacterium sp. 3-4B,species
+147293,False,uncultured Bifidobacterium sp. 2-3A,species
+147294,False,uncultured Bifidobacterium sp. 1-5A,species
+575338,False,Bifidobacterium sp. 108,species
+575339,False,Bifidobacterium sp. 33,species
+575340,False,Bifidobacterium sp. 138,species
+575341,False,Bifidobacterium sp. F-10,species
+575342,False,Bifidobacterium sp. F-11,species
+575343,False,Bifidobacterium sp. 120,species
+135023,False,Bifidobacterium sp. oral strain A32ED,species
+135024,True,environmental samples,no rank
+135025,False,Bifidobacterium sp. oral clone CX010,species
+575347,False,Bifidobacterium sp. 113,species
+3383155,False,Bifidobacterium sp. YIT 13611,species
+3383156,False,Bifidobacterium sp. YIT 13610,species
+3383157,False,Bifidobacterium sp. YIT 13612,species
+1946109,False,Bifidobacterium sp. UBA6881,species
+1638275,False,Bifidobacterium sp. 195,species
+1638276,False,Bifidobacterium sp. 196,species
+1946110,False,Bifidobacterium sp. UBA6889,species
+1946112,True,Bifidobacterium sp. UBA744,species
+3082206,False,Bifidobacterium longum subsp. iuvenis,subspecies
+1946113,False,Bifidobacterium sp. UBA7556,species
+3448726,False,Bifidobacterium sp. ESL1115,species
+722911,True,Bifidobacterium longum subsp. longum F8,strain
+1437595,False,Bifidobacterium pseudolongum subsp. pseudolongum DSM 20099,strain
+1437596,False,Bifidobacterium thermophilum DSM 20210,strain
+1437597,True,Bifidobacterium longum subsp. suis DSM 20211,strain
+1437594,False,Bifidobacterium asteroides DSM 20089,strain
+1437599,False,Bifidobacterium coryneforme DSM 20216,strain
+1437600,False,Bifidobacterium pullorum DSM 20433,strain
+1437601,False,Bifidobacterium cuniculi DSM 20435,strain
+1437602,False,Bifidobacterium pullorum subsp. gallinarum DSM 20670,strain
+1437603,False,Bifidobacterium mongoliense DSM 21395,strain
+1318820,False,Bifidobacterium sp. HGA0038,species
+1318821,False,Bifidobacterium sp. HGA0039,species
+1318822,False,Bifidobacterium sp. HGA0042,species
+1318823,False,Bifidobacterium sp. HGA0247,species
+1318824,False,Bifidobacterium sp. HGB0086a,species
+1318825,False,Bifidobacterium sp. HGH0115,species
+1318826,False,Bifidobacterium sp. HGH0116,species
+1318827,False,Bifidobacterium sp. HGH0117,species
+1318828,False,Bifidobacterium sp. HGH0118,species
+1318829,False,Bifidobacterium sp. HGH0119,species
+1318830,False,Bifidobacterium sp. HGH0120,species
+1318831,False,Bifidobacterium sp. HGH0121,species
+1318832,False,Bifidobacterium sp. HGH0122,species
+1318833,False,Bifidobacterium sp. HGH0123,species
+1318834,False,Bifidobacterium sp. HGH0124,species
+1318835,False,Bifidobacterium sp. HGH0125,species
+1318836,False,Bifidobacterium sp. HGH0126,species
+1318837,False,Bifidobacterium sp. HGH0127,species
+1318838,False,Bifidobacterium sp. HGH0128,species
+1318839,False,Bifidobacterium sp. HGH0129,species
+1318840,False,Bifidobacterium sp. HGH0130,species
+987065,False,Bifidobacterium sp. DPTE6,species
+1318841,False,Bifidobacterium sp. HGH0131,species
+987067,False,Bifidobacterium sp. DPVI-TET6,species
+1318842,False,Bifidobacterium sp. HGH0132,species
+1318843,False,Bifidobacterium sp. HGH0133,species
+1318844,False,Bifidobacterium sp. HGH0134,species
+1318845,False,Bifidobacterium sp. HGH0135,species
+1318846,False,Bifidobacterium sp. HGH0136,species
+1318847,False,Bifidobacterium sp. HGH0166_1,species
+1318848,False,Bifidobacterium sp. HGH0166_2,species
+1365955,False,Bifidobacterium animalis subsp. animalis MCC 0483,strain
+1365956,False,Bifidobacterium animalis subsp. animalis MCC 0499,strain
+1365957,False,Bifidobacterium animalis subsp. animalis MCC 1489,strain
+1365953,False,Bifidobacterium animalis subsp. lactis ATCC 27536,strain
+1365959,False,Bifidobacterium animalis subsp. animalis ATCC 27672,strain
+1365954,False,Bifidobacterium animalis subsp. lactis ATCC 27674,strain
+1365960,False,Bifidobacterium breve MCC 0121,strain
+1365961,False,Bifidobacterium breve MCC 0305,strain
+1365962,False,Bifidobacterium breve MCC 0476,strain
+1365963,False,Bifidobacterium breve MCC 1094,strain
+1365964,False,Bifidobacterium breve MCC 1114,strain
+1365965,False,Bifidobacterium breve MCC 1128,strain
+1769423,False,Bifidobacterium apri,species
+1365966,False,Bifidobacterium breve MCC 1340,strain
+1931217,True,Bifidobacterium longum subsp. suillum,subspecies
+1630162,False,Bifidobacterium tissieri,species
+1630163,False,Bifidobacterium sp. MRM 5.21,species
+1630164,False,Bifidobacterium sp. MRM 5.22,species
+1476565,False,Bifidobacterium sp. DA-40A,species
+1630166,False,Bifidobacterium myosotis,species
+1476566,False,Bifidobacterium sp. DA-40B,species
+1630165,False,Bifidobacterium sp. MRM 5.29,species
+1630167,False,Bifidobacterium sp. MRM 6.22,species
+1630168,False,Bifidobacterium sp. MRM 7.05,species
+1630169,False,Bifidobacterium sp. MRM 7.15,species
+1630172,False,Bifidobacterium hapali,species
+1630173,False,Bifidobacterium catulorum,species
+1630170,False,Bifidobacterium sp. MRM 8.11,species
+1630171,False,Bifidobacterium sp. MRM 8.12,species
+1630174,False,Bifidobacterium sp. MRM 8.20,species
+1630175,False,Bifidobacterium sp. MRM 8.6,species
+1630176,False,Bifidobacterium sp. MRM 8.9,species
+1630177,False,Bifidobacterium sp. MRM 9.01,species
+1630179,False,Bifidobacterium sp. MRM 9.03,species
+1630180,False,Bifidobacterium sp. MRM 9.05,species
+1630181,False,Bifidobacterium sp. MRM 9.06,species
+1630182,False,Bifidobacterium sp. MRM 9.08,species
+1630184,False,Bifidobacterium sp. MRM 9.16,species
+1630185,False,Bifidobacterium sp. MRM 9.26,species
+1042403,False,Bifidobacterium animalis subsp. lactis CNCM I-2494,strain
+180216,False,Bifidobacterium simiae,species
+702459,False,Bifidobacterium bifidum PRL2010,strain
+2834431,False,Bifidobacterium phasiani,species
