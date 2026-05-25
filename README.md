@@ -1,4 +1,4 @@
-![Microbiome & Bioinformatics](https://github.com/user-attachments/assets/961fce31-7632-4787-aee8-e9136b0c318b)
+
 
 # Bioinformatic Analysis of the *hutH* Gene in the Human Gut Microbiome Across Dysbiosis Contexts
 
