@@ -1,50 +1,43 @@
-![WhatsApp Image 2026-01-13 at 19 08 26](https://github.com/user-attachments/assets/961fce31-7632-4787-aee8-e9136b0c318b)
+![Microbiome & Bioinformatics](https://github.com/user-attachments/assets/961fce31-7632-4787-aee8-e9136b0c318b)
 
-# Analysis of Infant Gut Microbiota and Its Relationship with Behavioral and Brain Variables
+# Bioinformatic Analysis of the *hutH* Gene in the Human Gut Microbiome Across Dysbiosis Contexts
 
-## 📌 General description
+## 📌 General Description
 
-This repository contains the initial computational work associated with the **Bachelor’s Thesis (TFG)** of the **Degree in Food Science and Technology**.
+This repository contains the computational workflow and data analysis pipeline developed for the **Bachelor’s Thesis (TFG)** in **Food Science and Technology**.
 
-At the current stage, the project focuses on a **preliminary genomic screening task**, consisting of identifying *Bifidobacterium* species that **possess or lack the hutH gene** using publicly available data from **NCBI**. This task serves as a **proof of concept** and as a methodological foundation for later stages of the thesis.
+The project focuses on the computational extraction, processing, and visualization of metagenomic data to analyze the prevalence and abundance of the **hutH gene** (histidine ammonia-lyase) in the human gut microbiome. The analysis compares healthy profiles with various contexts of intestinal dysbiosis.
 
-The complete TFG will integrate **gut microbiota**, **behavioral**, and **brain-related data from children of different ages**, once access to these datasets is granted. All analyses are conducted using **Python**, primarily through **Jupyter notebooks**, ensuring transparency and reproducibility.
-
----
-
-## 🎯 Project objectives
-
-- To identify *Bifidobacterium* species using publicly available genomic data.
-- To explore genomic differences within the *Bifidobacterium* genus related to histidine metabolism based on the **presence or absence of the hutH gene**.
-- To develop a Python-based computational workflow for querying and analyzing NCBI genomic data.
-- To lay the groundwork for future integration with microbiota, behavioral, and brain-related datasets.
+Using **Python** and advanced data manipulation techniques, the pipeline processes clinical and omics data from **239 samples**, integrating metadata to classify patients into **5 distinct clinical groups**. 
 
 ---
 
-## 🧪 Types of data analyzed
+## 🎯 Project Objectives
 
-At the current stage, the project focuses on **genomic microbiological data** obtained from public databases:
-
-- **Genomic data (NCBI)**
-  - *Bifidobacterium* genomes
-  - Presence or absence of the **hutH** gene (histidine ammonia-lyase)
-  - Gene annotations and protein sequences
-
-Future stages of the project may include:
-- Gut microbiota composition data
-- Behavioral and dietary variables
-- Brain-related or neurodevelopmental data
+- Automate the genomic screening of **42 bacterial species** through public APIs (MGnify, NCBI).
+- Process, clean, and restructure complex metagenomic abundance matrices using Python.
+- Perform statistical normalization of biological data to correct mathematical biases across patient groups.
+- Develop robust, reproducible data visualizations to understand the role of *hutH*-carrying bacteria in gut dysbiosis.
 
 ---
 
-## 🛠️ Technologies and libraries used
+## 🧪 Data Analyzed
+
+This project heavily relies on bioinformatic data wrangling and API interactions:
+
+- **Metagenomic Data:** Extracted via **MGnify**, **ENA**, and **NCBI** databases.
+- **Bacterial profiles:** Genomic screening of 42 specific species.
+- **Clinical Metadata:** Integration of patient data to categorize **239 samples** into 5 experimental/clinical groups.
+- **Abundance Matrices:** Handling multidimensional dataframes (Absolute and Normalized counts).
+
+---
+
+## 🛠️ Technologies and Libraries
 
 - **Language:** Python 3
-- **Main libraries:**
-  - `pandas`
-  - `Biopython`
-
-(Additional libraries will be incorporated as the project progresses)
+- **Data Manipulation & Cleaning:** `pandas`, `numpy`
+- **Data Visualization:** `seaborn`, `matplotlib`
+- **Bioinformatics & API:** `Biopython`, `requests` (for automated database querying)
 
 ---
 
@@ -63,27 +56,23 @@ TFG/
 ```
 ---
 
-## ⚙️ Analysis methodology
+## ⚙️ Analysis Methodology
 
-1. **Exploratory and preparatory work (current stage)**
-   - Manual and programmatic querying of NCBI databases
-   - Screening *Bifidobacterium* genomes for the presence or absence of the **hutH** gene
-   - Documentation of results using Jupyter notebooks
-
-2. **Reproducible notebook-based workflow**
-   - Analyses implemented entirely in Jupyter notebooks
-   - Emphasis on clarity, traceability, and reproducibility rather than software engineering complexity
-
-3. **Planned future analyses**
-   - Integration of genomic findings with gut microbiota composition data from children
-   - Association analyses with behavioral and brain-related variables across age groups
-   - Statistical and multivariate analyses to explore microbiota–brain–behavior relationships
+1. **Automated Data Extraction:**
+   - Scripting queries to MGnify/NCBI to retrieve genome data for targeted species.
+2. **Data Wrangling & Cleaning:**
+   - Merging clinical metadata with abundance matrices.
+   - Restructuring DataFrames to solve dimensional mismatches and missing individuals.
+3. **Statistical Normalization:**
+   - Transforming absolute abundance counts into relative metrics per individual to ensure unbiased cross-group comparisons.
+4. **Data Visualization:**
+   - Generation of normalized plots using Seaborn to highlight differences across the 5 clinical groups.
 
 ---
 
-## 🔒 Ethical considerations
+## 🚧 Project Status
 
-All data used in this project are **anonymized** and handled in accordance with current data protection regulations and ethical principles for research involving minors.
+**Completed.** *Note: The repository is currently in the final phase of code optimization, refactoring, and inline documentation before the final academic defense.*
 
 ---
 
@@ -91,19 +80,11 @@ All data used in this project are **anonymized** and handled in accordance with 
 
 - **Author:** Elías Zorrilla Galdón  
 - **Degree:** Food Science and Technology  
-- **University:** University of Granada  
+- **University:** University of Granada (UGR) 
 - **Academic year:** 2025–2026
-
----
-
-## 🚧 Project status
-
-This project is currently **in its initial phase**. Only preparatory analyses based on public genomic data are included at this time. Additional datasets and analyses will be incorporated as they become available during the course of the thesis.
 
 ---
 
 ## 📄 License
 
-This project has been developed for **academic purposes**. The use of the data and code is restricted to educational and research contexts unless otherwise stated.
-
-
+This project has been developed for academic purposes. The use of the data and code is restricted to educational and research contexts unless otherwise stated.
