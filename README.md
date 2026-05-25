@@ -1,4 +1,4 @@
-
+![Microbiome & Bioinformatics](assets/Microbiota huth tfg.png)
 
 # Bioinformatic Analysis of the *hutH* Gene in the Human Gut Microbiome Across Dysbiosis Contexts
 
