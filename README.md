@@ -49,7 +49,6 @@ TFG/
 │   └── processed/ # Preprocessed data
 ├── notebooks/ # Jupyter notebooks with analyses
 ├── results/ # Figures, tables, and outputs
-├── scripts/ # Python scripts
 ├── README.md # Project description
 ├── .gitignore
 └── requirements.txt # Project dependencies
