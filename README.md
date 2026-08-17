@@ -2,46 +2,69 @@
 
 # Bioinformatic Analysis of the *hutH* Gene in the Human Gut Microbiome Across Dysbiosis Contexts
 
-## 📌 General Description
+## 📌 Overview
 
-This repository contains the computational workflow and data analysis pipeline developed for the **Bachelor’s Thesis (TFG)** in **Food Science and Technology**.
+This repository contains the bioinformatic pipeline and analysis code developed for my **Bachelor's Thesis (TFG)** in **Food Science and Technology** (University of Granada, 2025–2026).
 
-The project focuses on the computational extraction, processing, and visualization of metagenomic data to analyze the prevalence and abundance of the **hutH gene** (histidine ammonia-lyase) in the human gut microbiome. The analysis compares healthy profiles with various contexts of intestinal dysbiosis.
+The project investigates the **hutH gene** (histidine ammonia-lyase), a microbial gene involved in histidine catabolism and increasingly studied as a functional marker of the gut-brain axis. Using public shotgun metagenomic data, the pipeline quantifies *hutH* abundance across clinical groups (healthy controls, obesity-related dysbiosis, and post-bariatric surgery follow-up) and identifies the bacterial taxa carrying the gene. A second, independent analysis screens the genus *Bifidobacterium* for *hutH*-positive taxa as candidates for functional food development.
 
-Using **Python** and advanced data manipulation techniques, the pipeline processes clinical and omics data from **239 samples**, integrating metadata to classify patients into **5 distinct clinical groups**. 
-
----
-
-## 🎯 Project Objectives
-
-- Automate the genomic screening of **42 bacterial species** through public APIs (MGnify, NCBI).
-- Process, clean, and restructure complex metagenomic abundance matrices using Python.
-- Perform statistical normalization of biological data to correct mathematical biases across patient groups.
-- Develop robust, reproducible data visualizations to understand the role of *hutH*-carrying bacteria in gut dysbiosis.
+All data processing — from automated download of metagenomic profiles to clinical metadata integration and statistical analysis — was built as a reusable Python pipeline querying public repositories (MGnify, ENA, NCBI).
 
 ---
 
-## 🧪 Data Analyzed
+## 🎯 Objectives
 
-This project heavily relies on bioinformatic data wrangling and API interactions:
+- Quantify *hutH* gene abundance in the gut microbiota of healthy adults, individuals with obesity-related dysbiosis, and patients following sleeve gastrectomy (1 and 3 months post-op).
+- Build an automated pipeline to download and filter shotgun metagenomic profiles from **MGnify** (study **MGYS00005333**).
+- Integrate clinical metadata from **ENA** and the **NCBI Run Selector** to classify each sample into its correct clinical group.
+- Identify which bacterial taxa carry the *hutH* gene, and test for statistically significant differences in abundance across groups.
+- Screen the taxonomic descendants of *Bifidobacterium* (via **NCBI Taxonomy** and the **Entrez/E-utilities API**) to catalogue *hutH*-carrying strains with potential biotechnological interest.
 
-- **Metagenomic Data:** Extracted via **MGnify**, **ENA**, and **NCBI** databases.
-- **Bacterial profiles:** Genomic screening of 42 specific species.
-- **Clinical Metadata:** Integration of patient data to categorize **239 samples** into 5 experimental/clinical groups.
-- **Abundance Matrices:** Handling multidimensional dataframes (Absolute and Normalized counts).
+---
+
+## 🧪 Data Sources
+
+| Source | Purpose |
+|---|---|
+| **MGnify** (study MGYS00005333) | Shotgun metagenomic functional annotation profiles |
+| **ENA** + **NCBI Run Selector** | Clinical/experimental metadata for sample classification |
+| **NCBI Taxonomy** (`new_taxdump`) | Reconstruction of the *Bifidobacterium* taxonomic lineage (`names.dmp`, `nodes.dmp`) |
+| **NCBI Entrez / Protein DB** | Automated screening for *hutH* across *Bifidobacterium* descendant taxa |
+
+Original clinical cohort: Liu et al. (2017), *Nature Medicine* — Han-Chinese young adults recruited at Ruijin Hospital (Shanghai Jiao Tong University).
+
+---
+
+## 📊 Key Results
+
+**Cohort (after filtering):** n = 238 samples
+- Control: n = 100
+- Dysbiosis: n = 103
+- Surgery, month 1: n = 14
+- Surgery, month 3: n = 21
+
+*(One additional sample corresponding to month 2 post-surgery was excluded due to lack of biological replicates.)*
+
+- *hutH* abundance drops significantly in the dysbiosis group compared to controls (Kruskal-Wallis + Mann-Whitney, p < 0.05).
+- Abundance recovers progressively after surgery, reaching control-comparable levels by month 3.
+- Main *hutH*-carrying families: **Bacteroidaceae**, **Porphyromonadaceae**, and **Rikenellaceae**.
+- Screening of 903 taxonomic descendants of *Bifidobacterium* identified **45 hutH-positive taxa**: 29 strains, 10 species, 4 subspecies, and 2 with no defined rank — candidates for further functional food / precision nutrition research.
 
 ---
 
 ## 🛠️ Technologies and Libraries
 
-- **Language:** Python 3
-- **Data Manipulation & Cleaning:** `pandas`, `numpy`
-- **Data Visualization:** `seaborn`, `matplotlib`
-- **Bioinformatics & API:** `Biopython`, `requests` (for automated database querying)
+- **Language:** Python 3.10
+- **Environment:** VS Code + Jupyter Notebooks
+- **Data manipulation:** `pandas` 2.3.3, `numpy` 2.2.6
+- **Bioinformatics / API querying:** `biopython` 1.86, `requests`
+- **Visualization:** `matplotlib` 3.10.8, `seaborn` 0.13.2
+- **Version control:** Git / GitHub
 
 ---
 
 ## 📂 Repository structure
+
 ```
 TFG/
 └── data/
@@ -55,23 +78,20 @@ TFG/
 ```
 ---
 
-## ⚙️ Analysis Methodology
+## ⚙️ Pipeline Overview
 
-1. **Automated Data Extraction:**
-   - Scripting queries to MGnify/NCBI to retrieve genome data for targeted species.
-2. **Data Wrangling & Cleaning:**
-   - Merging clinical metadata with abundance matrices.
-   - Restructuring DataFrames to solve dimensional mismatches and missing individuals.
-3. **Statistical Normalization:**
-   - Transforming absolute abundance counts into relative metrics per individual to ensure unbiased cross-group comparisons.
-4. **Data Visualization:**
-   - Generation of normalized plots using Seaborn to highlight differences across the 5 clinical groups.
+1. **Automated download of sample links** — queries the MGnify API for each accession code and stores functional annotation download links, with error handling and resume-on-failure logic to cope with API rate limits.
+2. **Streamed download and filtering** — reads each annotation file directly via `pandas` (no local full-file download), filters for *hutH*/histidine-related entries, and appends results with sample/analysis IDs to a consolidated table.
+3. **Metadata integration** — merges the *hutH* abundance table with clinical metadata (ENA, NCBI Run Selector, and the original study's supplementary metadata) to assign each sample to its clinical group.
+4. **Statistical analysis & visualization** — exploratory bar plots, boxplots with Kruskal-Wallis/Mann-Whitney significance testing, and taxon-level abundance breakdowns by clinical group.
+5. **Taxonomic screening (Bifidobacterium)** — parses the NCBI Taxonomy `new_taxdump` snapshot to build a parent→child tree, extracts all descendants of *Bifidobacterium*, and cross-references them against Entrez *hutH* protein records to flag positive taxa.
 
 ---
 
 ## 🚧 Project Status
 
-**Completed.** *Note: The repository is currently in the final phase of code optimization, refactoring, and inline documentation before the final academic defense.*
+**Completed.** Full write-up available as a PDF thesis (in Spanish, with English abstract) upon request.
+
 
 ---
 
