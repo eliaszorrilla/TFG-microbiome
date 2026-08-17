@@ -109,3 +109,11 @@ TFG/
 ## 📄 License
 
 This project has been developed for academic purposes. The use of the data and code is restricted to educational and research contexts unless otherwise stated.
+
+---
+
+## 📬 Contact & Connect
+
+- **LinkedIn:** [www.linkedin.com/in/eliaszorrilla](https://www.linkedin.com/in/eliaszorrilla/)
+- **Email:** eliaszorrillagaldon@gmail.com
+- **Location:** Granada, Spain (Open to local & fully remote opportunities)
