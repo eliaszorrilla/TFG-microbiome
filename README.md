@@ -96,7 +96,7 @@ TFG/
 
 ---
 
-## 👩‍🎓 Authorship
+## 🧑🏻‍🎓 Authorship
 
 - **Author:** Elías Zorrilla Galdón  
 - **Degree:** Food Science and Technology  
