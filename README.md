@@ -73,6 +73,7 @@ TFG/
 ├── notebooks/ # Jupyter notebooks with analyses
 ├── assets/ #ReadMe image
 ├── results/ # Figures, tables, and outputs
+├── Thesis.pdf # Document itself as a pdf file.
 ├── README.md # Project description
 ├── .gitignore
 └── requirements.txt # Project dependencies
