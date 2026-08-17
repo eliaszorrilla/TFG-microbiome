@@ -71,6 +71,7 @@ TFG/
 │   ├── raw/ # Raw data
 │   └── processed/ # Preprocessed data
 ├── notebooks/ # Jupyter notebooks with analyses
+├── assets/ #ReadMe image
 ├── results/ # Figures, tables, and outputs
 ├── README.md # Project description
 ├── .gitignore
